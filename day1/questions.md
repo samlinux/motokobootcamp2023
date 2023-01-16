@@ -1,7 +1,11 @@
 # Questions
 
 1. How much is the current memory capacity of a canister?
-Answer: ???
+Answer: 
+4 GB or
+32 GB stable experimental memory 
+
+There is really less information about this topic, found some infos on the forum !!!
 
 
 2. What is the issue with the following code sample?
